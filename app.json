@@ -1,0 +1,12 @@
+{
+  "name": "EverySide",
+  "displayName": "EverySide",
+  "expo": {
+    "name": "EverySide",
+    "slug": "EverySide",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
